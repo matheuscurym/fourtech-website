@@ -1,0 +1,9 @@
+# Dados locais e arquivos temporários
+.env
+.env.*
+!.env.example
+node_modules/
+**/tmp/
+*.log
+.DS_Store
+Thumbs.db
